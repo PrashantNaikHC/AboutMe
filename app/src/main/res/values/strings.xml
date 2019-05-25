@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Prashant Naik</string>
+    <string name="desc">this is the image showing the star</string>
+    <string name="details">This is the introduction to the bio.
+    \n this demonstrates the simple scrollview and how it can be used within the layout editor.
+    \n line 1
+    \n line 2
+    \n line 3
+    \n line 4
+    \n line 5
+    \n line 6
+    \n line 7
+    \n line 8
+    \n line 9</string>
+    <string name="hint">please enter the name here</string>
+    <string name="done">Done</string>
+</resources>
